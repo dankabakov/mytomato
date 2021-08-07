@@ -1,0 +1,37 @@
+.main-body {
+    max-width: 400px;
+    font-family: "Roboto", serif;
+    align-content: center;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(204,145,4,1) 0%, rgba(241,191,16,1) 100%);
+    padding: 25px 25px 25px 25px;
+    color: #FFFFFF;
+}
+
+.timer-settings {
+    padding-top: 25px;
+    font-size: 21px;
+}
+
+.length-settings {
+ 
+}
+
+.break-settings {
+ 
+}
+
+.timer-clock {
+    padding: 25px;
+    font-size: 64px;
+}
+
+.button {
+    color: #303030;
+    width: 20px;
+    padding: 10px;
+    width: 36px;
+    height: 36px;
+    background-color: #FFFFFF;
+    border-radius:20%;
+    box-shadow: 0 0 0 2px #F2F2F2;
+}
