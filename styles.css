@@ -1,4 +1,4 @@
-.main-body {
+#pomodoro-container {
     max-width: 400px;
     font-family: "Roboto", serif;
     align-content: center;
@@ -7,30 +7,12 @@
     color: #FFFFFF;
 }
 
-.timer-settings {
-    padding-top: 25px;
-    font-size: 21px;
-}
-
-.length-settings {
- 
-}
-
-.break-settings {
- 
-}
-
-.timer-clock {
-    padding: 25px;
-    font-size: 64px;
-}
-
-.button {
+button {
     color: #303030;
     width: 20px;
     padding: 10px;
-    width: 36px;
-    height: 36px;
+    width: 56px;
+    height: 56px;
     background-color: #FFFFFF;
     border-radius:20%;
     box-shadow: 0 0 0 2px #F2F2F2;
